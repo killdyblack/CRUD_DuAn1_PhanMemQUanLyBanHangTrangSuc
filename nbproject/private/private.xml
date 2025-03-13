@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/repository/SanPham/InterfaceRepoChiTietSanPham.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>16</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/view/sanpham/ThemMoiSanPham.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/until/validate/ValidateData.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/repository/DaQuy/DaQuyRepository.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/repository/hoadon/RepositoryHoaDon.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/repository/hoadonchitiet/RepositoryHoaDonChiTiet.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/service/CapNhatSanPham/CapNhatSanPhamSv.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/repository/chatlieu/ChatLieuRepository.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/view/sanpham/CapNhatSanPham.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/view/dangnhap/DangNhapView.java</file>
+            <file>file:/D:/WorkSpace/DA1/Duan01_Final/src/view/sanpham/GiaoDienSanPham.java</file>
+        </group>
+    </open-files>
+</project-private>
